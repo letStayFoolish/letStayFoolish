@@ -6,7 +6,7 @@ My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸
 </h2>
 
 [//]: # (<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:nemanjakaraklajic90@gmail.com" target="_blank"><img align="center" src="./mail.svg" alt="Nemanja Karaklajic email adress." height="40" width="40" /></a>
@@ -57,11 +57,11 @@ Travel as much as possible, like to visit to me unknown places around the world.
 ---
 
 ## My statistics
-<img src="https://github-readme-stats.vercel.app/api?username=letStayFoolish&show_icons=true&theme=dark" alt="Nemanja's GitHub stats" align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=letStayFoolish&show_icons=true&theme=dark" alt="Nemanja's GitHub stats" align="center" width="50%">
 
 ---
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="100%">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="50%">
 
 ---
 
