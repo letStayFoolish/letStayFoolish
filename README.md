@@ -22,16 +22,8 @@ I am resourceful engineer who is highly motivated and ambitious individual thriv
 * Bootstrap
 
 ### Hobbies
-Also, I would like to add that I am running lover, earlier I both, trained and raced as professional triathlete. Did many races in and out of Serbia as well. Lastly I ran a marathon (42,2 km) in Moscow.
-Travel as much as possible, like to visit to me unknown places around the world.
-
-
-
-
-<p align="left"><img src="https://www.codewars.com/users/letStayFoolish/badges/small"></p> 
-
-
-
+Also, I would like to add that I am passionate runner. In the past I was both training and racing as professional triathlete. I did many races in my country and out as well. Lastly I ran a marathon (42,2 km) in Moscow.
+I travel as much as possible, intend to visit, to me unknown places around the world.
 
 ## My skills
 <div>
@@ -54,10 +46,20 @@ Travel as much as possible, like to visit to me unknown places around the world.
 [//]: # (|<div style="width:210px">[<img src="https://user-images.githubusercontent.com/86494748/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" width="208px" alt="Диплом о профессиональной переподготовке по профессии «Веб-разработчик»">]&#40;https://drive.google.com/file/d/14e-LHymHNxaDK47kG3dUzVsMX5fssxUa&#41;</div>|)
 
 ## My statistics
+### [CodeWars](https://www.codewars.com/dashboard)
+<p align="left"><img src="https://www.codewars.com/users/letStayFoolish/badges/small"></p> 
+
+### [GitHub](https://github.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=letStayFoolish&show_icons=true&theme=dark" alt="Nemanja's GitHub stats" align="center" width="50%">
 
+### Languages stats
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="50%">
 
+---
+
+<footer>
 
 ![visitors](https://komarev.com/ghpvc/?username=letStayFoolish&label=visitors&color=blue)
+
+</footer>
