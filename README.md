@@ -57,12 +57,12 @@ Travel as much as possible, like to visit to me unknown places around the world.
 ---
 
 ## My statistics
+
 <img src="https://github-readme-stats.vercel.app/api?username=letStayFoolish&show_icons=true&theme=dark" alt="Nemanja's GitHub stats" align="center" width="50%">
 
 ---
-
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="50%">
 
----
+
 
 ![visitors](https://komarev.com/ghpvc/?username=letStayFoolish&label=visitors&color=blue)
