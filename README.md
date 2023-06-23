@@ -41,9 +41,10 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <!-- <img src="https://img.shields.io/badge/MongoDB-136?style=for-the-badge&logo=MongoDB&logoColor=47A248"/> -->
 </div>
 
-[//]: # (### 👨‍🎓 Studies:)
+## 👨‍🎓 Studies
 
-[//]: # (|<div style="width:210px">[<img src="https://user-images.githubusercontent.com/86494748/163344396-94ef1e89-5861-490d-a95d-a1d675dc5918.jpg" width="208px" alt="Диплом о профессиональной переподготовке по профессии «Веб-разработчик»">]&#40;https://drive.google.com/file/d/14e-LHymHNxaDK47kG3dUzVsMX5fssxUa&#41;</div>|)
+# <div style="width:210px">
+[<img src="./Modern-JavaScript-From-The-Beginning.png" width="208px" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</div>|
 
 ## My statistics
 ### [CodeWars](https://www.codewars.com/dashboard)
@@ -55,7 +56,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 ### Languages stats
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="50%">
-
+<p>https://app.kajabi.com/certificates/711cd637</p>
 ---
 
 <footer>
