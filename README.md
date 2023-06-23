@@ -43,7 +43,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 ## 👨‍🎓 Studies
 
-#### <div style="width:560px">[<img src="./Modern-JavaScript-From-The-Beginning.png" width="555px" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</div>
+#### <div style="width:50%">[<img src="./Modern-JavaScript-From-The-Beginning.png" width="" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</div>
 
 ## My statistics
 ### [CodeWars](https://www.codewars.com/dashboard)
@@ -55,7 +55,6 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 ### Languages stats
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=letStayFoolish&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nemanja's Top Languages" align="center" width="50%">
-<p>https://app.kajabi.com/certificates/711cd637</p>
 ---
 
 <footer>
