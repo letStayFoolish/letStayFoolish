@@ -43,8 +43,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 ## 👨‍🎓 Studies
 
-# <div style="width:210px">
-[<img src="./Modern-JavaScript-From-The-Beginning.png" width="208px" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</div>|
+#### <div style="width:560px">[<img src="./Modern-JavaScript-From-The-Beginning.png" width="555px" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</div>
 
 ## My statistics
 ### [CodeWars](https://www.codewars.com/dashboard)
