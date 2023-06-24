@@ -3,7 +3,7 @@
 My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸</b>
 </h2>
 <div align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="600" alt="Software engineer siting and writing code.">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500px" alt="Software engineer siting and writing code.">
 
 [//]: # (&#40;<a href="link">here</a> click and download my CV&#41;)
 </div>
@@ -20,16 +20,16 @@ I intend to improve my skills after completing the course "Yandex Practicum":
 
 ## 👨‍🎓 Education
 
-### Diplomas
+### 🎓Diplomas
 #### <div style="width:550px">Bachelor of Science in Civil Engineering (Faculty of Technical Sciences Novi Sad, Serbia)<details><summary><b>Show More</b></summary>[<img src="./Diploma-FTN.png" width="" alt="Diploma Bachelor of Science in Civil Engineering">](https://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)</details></div>
 
 [//]: # (#### <div style="width:550px">Junior Frontend Developer &#40;Yandex Practicume&#41;<details><summary><b>Show More</b></summary>[<img src="" width="" alt="Certificate Yandex Practicume">]&#40;link&#41;</details></div>)
 
-### Certificates
+### 🏅Certificates
 
 #### <div style="width:55opx">Modern JavaScript from The Beginning 2.0 (Traversy Media)<details><summary><b>Show More</b></summary>[<img src="./Modern-JavaScript-From-The-Beginning.png" width="" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</details></div>
 
-### Hobbies
+### 🚵🏻‍♂️ Hobbies
 Also, I would like to add that I am passionate runner. In the past I was both training and racing as professional triathlete. I did many races in my country and out as well. Lastly I ran a marathon (42,2 km) in Moscow.
 I travel as much as possible, intend to visit, to me unknown places around the world.
 
@@ -63,7 +63,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <b>General:</b>
 <br>
 
-<i><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Icon 'Git'"></i>
+<a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Icon 'Git'"></a>
 <a href="/"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Icon 'Github'"></a>
 <i><img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="Icon 'WebStorm'">
 </i>
@@ -83,6 +83,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <h2 align="center">📊 My stats:</h2>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=letStayFoolish&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" width="400px"/></a>
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letStayFoolish&layout=compact&theme=shades-of-purple&langs_count=8" width="400px"/>
   <br>
   <a href="https://www.codewars.com/users/letStayFoolish"><img src="https://www.codewars.com/users/letStayFoolish/badges/large" alt="badge showing rating of Nemanja Karaklajic on Codewars - an educational community for computer programming"></a>
