@@ -94,13 +94,13 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 <h2 align="center">✉️ Connect with me:</h2>
 <div align="center">
-  <a href="mailto:nemanjakaraklajic90@gmail.com">
+  <a href="mailto:nemanjakaraklajic90@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://t.me/Call_me_chili">
+  <a href="https://t.me/Call_me_chili" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.linkedin.com/in/nemanjakaraklajic30111990/">
+  <a href="https://www.linkedin.com/in/nemanjakaraklajic30111990/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </div>
