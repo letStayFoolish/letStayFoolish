@@ -1,11 +1,10 @@
-<h2 align="center"><b>Hello there! 👋🏽
-<br>
-My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸</b>
+<img src="https://camo.githubusercontent.com/d9e3fdec3ea977132fc992db53589aef47e4d5436076724322bdc4b8fb7dc8d2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3235362673656374696f6e3d68656164657226746578743d48656c6c6f253230576f726c642126666f6e7453697a653d373526616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d57656c636f6d65253230746f2532306d7925323047697448756225323070726f66696c652125323050757425323073746172732c253230666f726b253230616e64253230636f6e74726962757465212664657363416c69676e593d35312664657363416c69676e3d3632" alt="Hello world!" width="100%">
+<h2 align="center">
+<b>My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸</b>
 </h2>
 <div align="center">
-<img src="./header.png" width="100%" alt="header with my basic skills.">
 
-[//]: # (&#40;<a href="link">here</a> click and download my CV&#41;)
+[//]: # (&#40;<a href="link" target="_blank">here</a> click and download my CV&#41;)
 </div>
 <br>
 
@@ -38,55 +37,55 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <br>
 
 [//]: # (<a href=""><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Icon 'Next.js'"></a>)
-<a href="https://github.com/letStayFoolish1/react-mesto-auth"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Icon 'React'"></a>
-<a href="https://github.com/letStayFoolish/flixx-app"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Icon 'JavaScript'"></a>
-<a href="https://github.com/letStayFoolish/russian-travel"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Icon 'СSS3'"></a>
-<a href="https://github.com/letStayFoolish/how-to-learn"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Icon 'HTML5'"></a>
-<a href="link"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Icon 'HTML5'"></a>
+<a href="https://github.com/letStayFoolish1/react-mesto-auth" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Icon 'React'"></a>
+<a href="https://github.com/letStayFoolish/flixx-app" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Icon 'JavaScript'"></a>
+<a href="https://github.com/letStayFoolish/russian-travel" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Icon 'СSS3'"></a>
+<a href="https://github.com/letStayFoolish/how-to-learn" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Icon 'HTML5'"></a>
+<a href="link" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Icon 'HTML5'"></a>
 
-[//]: # (<a href=""><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Icon 'Redux'"></a>)
+[//]: # (<a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Icon 'Redux'"></a>)
 
-[//]: # (<a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Icon 'TypeScript'"></a>)
+[//]: # (<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Icon 'TypeScript'"></a>)
 
-[//]: # (<a href=""><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass &#40;SCSS&#41;'"></a>)
+[//]: # (<a href="" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass &#40;SCSS&#41;'"></a>)
 
 
 <b>Backend:</b>
 <br>
 
-<a href="mesto beckend"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
+<a href="mesto beckend" target="_blank" ><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
 
-[//]: # (<a href="mesto beckend"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Icon 'Express'"></a>)
+[//]: # (<a href="mesto beckend" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Icon 'Express'"></a>)
 
-[//]: # (<a href="mesto beckend"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Icon 'MongoDB'"></a>)
+[//]: # (<a href="mesto beckend" target="_blank" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Icon 'MongoDB'"></a>)
 
 <b>General:</b>
 <br>
 
-<a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Icon 'Git'"></a>
-<a href="/"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Icon 'Github'"></a>
+<i hre target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Icon 'Git'"></i>
+<a href="/" target="_blank"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Icon 'Github'"></a>
 <i><img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="Icon 'WebStorm'">
 </i>
 <i><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="Icon 'macOS'"></i>
-<a href="https://github.com/letStayFoolish/Tracalorie-app-bundled"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Icon 'Webpack'"></a>
-<a href="https://github.com/letStayFoolish/mesto/blob/main(develop)/babel.config.js"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Icon 'Babel'"></a>
-<a href="https://github.com/letStayFoolish/letStayFoolish"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Icon 'Markdown'"></a>
-<i href=""><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Icon 'NPM'"></i>
-<i href=""><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Icon 'Figma'"></i>
-<i href=""><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Icon 'Postman'"></i>
-<a href="https://www.codewars.com/users/letStayFoolish"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Icon 'Codewars'"></a>
-<a href="https://scrimba.com/dashboard#enrolled"><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Icon 'Scrimba'"></a>
+<a href="https://github.com/letStayFoolish/Tracalorie-app-bundled" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Icon 'Webpack'"></a>
+<a href="https://github.com/letStayFoolish/mesto/blob/main(develop)/babel.config.js" target="_blank"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Icon 'Babel'"></a>
+<a href="https://github.com/letStayFoolish/letStayFoolish" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Icon 'Markdown'"></a>
+<i href="" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Icon 'NPM'"></i>
+<i href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Icon 'Figma'"></i>
+<i href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Icon 'Postman'"></i>
+<a href="https://www.codewars.com/users/letStayFoolish" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Icon 'Codewars'"></a>
+<a href="https://scrimba.com/dashboard#enrolled" target="_blank"><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Icon 'Scrimba'"></a>
 <br>
 
 <i>💡 - Click-on badge will take You to the repository, an example of written code, or you can take a look on all of my <a href="https://github.com/letStayFoolish?tab=repositories">repositories.</a></i>
 <br>
 <h2 align="center">📊 My stats:</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=letStayFoolish&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" width="400px"/></a>
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://streak-stats.demolab.com?user=letStayFoolish&theme=shades-of-purple&border_radius=1&date_format=%5BY%20%5DM%20j" width="400px"/></a>
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letStayFoolish&layout=compact&theme=shades-of-purple&langs_count=8" width="400px"/>
   <br>
-  <a href="https://www.codewars.com/users/letStayFoolish"><img src="https://www.codewars.com/users/letStayFoolish/badges/large" alt="badge showing rating of Nemanja Karaklajic on Codewars - an educational community for computer programming"></a>
+  <a href="https://www.codewars.com/users/letStayFoolish" target="_blank"><img src="https://www.codewars.com/users/letStayFoolish/badges/large" alt="badge showing rating of Nemanja Karaklajic on Codewars - an educational community for computer programming"></a>
   <br>
 
 [//]: # (  Solve <b>...</b> tasks on <a href="https://www.codewars.com/users/letStayFoolish">Codewars</a>, <b>...</b> - on <a href="">...</a>)
