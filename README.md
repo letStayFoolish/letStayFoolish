@@ -3,7 +3,7 @@
 My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸</b>
 </h2>
 <div align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="500px" alt="Software engineer siting and writing code.">
+<img src="./header.png" width="600px" alt="header with my basic skills.">
 
 [//]: # (&#40;<a href="link">here</a> click and download my CV&#41;)
 </div>
