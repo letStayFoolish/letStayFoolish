@@ -28,7 +28,7 @@ I intend to improve my skills after completing the course "Yandex Practicum":
 
 #### <div style="width:55opx">Modern JavaScript from The Beginning 2.0 (Traversy Media)<details><summary><b>Show More</b></summary>[<img src="./Modern-JavaScript-From-The-Beginning.png" width="" alt="Certificate: 'Modern JavaScript From The Beginning 2.0'">](https://app.kajabi.com/certificates/711cd637)</details></div>
 
-#### <div style="width:55opx">Bootstrap 5 From Scratch | Build 5 Modern Websites (Traversy Media)<details><summary><b>Show More</b></summary>[<img src="./Bootstrap-5-From-Scratch" width="" alt="Certificate: 'Bootstrap 5 From Scratch | Build 5 Modern Websites'">](https://app.kajabi.com/certificates/18645b87)</details></div>
+#### <div style="width:55opx">Bootstrap 5 From Scratch | Build 5 Modern Websites (Traversy Media)<details><summary><b>Show More</b></summary>[<img src="./Bootstrap-5-From-Scratch.png" width="" alt="Certificate: 'Bootstrap 5 From Scratch | Build 5 Modern Websites'">](https://app.kajabi.com/certificates/18645b87)</details></div>
 
 ### 🚵🏻‍♂️ Hobbies
 Also, I would like to add that I am passionate runner. In the past I was both training and racing as professional triathlete. I did many races in my country and out as well. Lastly I ran a marathon (42,2 km) in Moscow.
