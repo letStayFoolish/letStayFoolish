@@ -57,11 +57,9 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <b>Backend:</b>
 <br>
 
-<a href="mesto beckend" target="_blank" ><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
-
-[//]: # (<a href="mesto beckend" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Icon 'Express'"></a>)
-
-[//]: # (<a href="mesto beckend" target="_blank" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Icon 'MongoDB'"></a>)
+<a href="https://github.com/letStayFoolish/express-mesto-gha" target="_blank" ><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
+<a href="https://github.com/letStayFoolish/react-mesto-api-full-gha" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Icon 'Express'"></a>
+<a href="https://github.com/letStayFoolish/react-mesto-api-full-gha" target="_blank" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Icon 'MongoDB'"></a>
 
 <b>General:</b>
 <br>
