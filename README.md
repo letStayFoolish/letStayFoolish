@@ -11,7 +11,8 @@
 [//]: # (<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
 
 ## 👨🏼‍💻 About me
-I am resourceful engineer who is highly motivated and ambitious individual thriving for perfection in everything I do. Physically fit and able to work from office and at remote locations, I am more than willing to undertake any work of technical nature that falls within my ability and competence. Also, I have a solid record of health, safety and environmental focus when working on projects, and I am committed to my personal and professional development.I have a great deal of experience with working solo and team projects.
+Hi there! 
+I am junior web developer adept in React & JavaScript. Enthusiastic and adaptable professional with a background in civil engineering, eager to leverage technical acumen and problem-solving skills in a dynamic web development role. Passionate about technology and coding, seeking to apply a solid foundation in engineering principles to create innovative and user-focused web solutions.
 I intend to improve my skills after completing the course "Yandex Practicum": 
 * TypeScript
 * Svelte
