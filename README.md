@@ -18,6 +18,8 @@ I intend to improve my skills after completing the course "Yandex Practicum":
 * Svelte
 * Bootstrap
 
+Please check out my portfolio website on (nemanjakaraklajic.com)[https://chilicode.netlify.app/]
+
 ## 👨‍🎓 Education
 
 ### 🎓Diplomas
