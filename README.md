@@ -12,7 +12,7 @@
 
 ## 👨🏼‍💻 About me
 Hi there! 
-I am junior web developer adept in React & JavaScript. Enthusiastic and adaptable professional with a background in civil engineering, eager to leverage technical acumen and problem-solving skills in a dynamic web development role. Passionate about technology and coding, seeking to apply a solid foundation in engineering principles to create innovative and user-focused web solutions.
+I am web developer adept in React & TypeScript. Enthusiastic and adaptable professional with a background in civil engineering, eager to leverage technical acumen and problem-solving skills in a dynamic web development role. Passionate about technology and coding, seeking to apply a solid foundation in engineering principles to create innovative and user-focused web solutions.
 
 Please check out my portfolio website on <a target="_blank" href="https://chilicode.netlify.app/">nemanjakaraklajic.com</a>
 
