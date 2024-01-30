@@ -21,7 +21,7 @@ Please check out my portfolio website on <a href="https://chilicode.netlify.app/
 ### 🎓Diplomas
 #### <div style="width:550px">Bachelor of Science in Civil Engineering (Faculty of Technical Sciences Novi Sad, Serbia)<details><summary><b>Show More</b></summary>[<img src="./Diploma-FTN.png" width="" alt="Diploma Bachelor of Science in Civil Engineering">](https://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)</details></div>
 
-#### <div style="width:550px">Junior Frontend Developer &#40;Yandex Practicum&#41;<details><summary><b>Show More</b></summary>[<img src="./Diploma-yandex.png" width="" alt="Certificate Yandex Practicume">](https://practicum.yandex.ru/)</details></div>
+#### <div style="width:550px">Junior Frontend Developer &#40;Yandex Practicum&#41;<details><summary><b>Show More</b></summary>[<img src="./Diploma-yandex.png" width="" alt="Diploma Yandex Practicume">](https://practicum.yandex.ru/)</details></div>
 
 ### 🏅Certificates
 
