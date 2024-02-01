@@ -1,6 +1,6 @@
 
 <h2 align="center">
-<b>My name is Nemanja, and I am junior frontend developer from Serbia 🇷🇸</b>
+<b>My name is Nemanja, and I am web developer from Serbia 🇷🇸</b>
 </h2>
 <div align="center">
 
