@@ -41,6 +41,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 [//]: # (<a href=""><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Icon 'Next.js'"></a>)
 <a href="https://github.com/letStayFoolish1/react-mesto-auth" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Icon 'React'"></a>
 <a href="https://github.com/letStayFoolish/flixx-app" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Icon 'JavaScript'"></a>
+<a href="https://github.com/letStayFoolish/flixx-app" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Icon 'NEXT.js'"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Icon Redux"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Icon TypeScript"></a>
 <a href="https://github.com/letStayFoolish/russian-travel" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Icon 'СSS3'"></a>
