@@ -51,9 +51,6 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Icon Tailwind"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Icon Material UI"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="Icon React Router"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Icon PostgreSQL"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Icon AWS"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Icon Excel"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Icon Figma"></a>
 
 <b>Backend:</b>
@@ -62,6 +59,8 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <a href="https://github.com/letStayFoolish/express-mesto-gha" target="_blank" ><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Иконка 'Node JS'"></a>
 <a href="https://github.com/letStayFoolish/react-mesto-api-full-gha" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Icon 'Express'"></a>
 <a href="https://github.com/letStayFoolish/react-mesto-api-full-gha" target="_blank" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Icon 'MongoDB'"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Icon PostgreSQL"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Icon AWS"></a>
 
 <b>General:</b>
 <br>
@@ -81,8 +80,7 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <a href="https://scrimba.com/dashboard#enrolled" target="_blank"><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Icon 'Scrimba'"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Icon Vercel"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Icon Binance"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Icon PostgreSQL"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="Icon Webstorm"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Icon Excel"></a>
 <br>
 
 <i>💡 - Click-on badge will take You to the repository, an example of written code, or you can take a look on all of my <a href="https://github.com/letStayFoolish?tab=repositories">repositories.</a></i>
