@@ -49,6 +49,12 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <a href="https://github.com/letStayFoolish/corse-website" target="_blank"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Icon 'SASS'"></a>
 <a href="https://github.com/letStayFoolish/vera-website" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Icon Bootstrap"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Icon Tailwind"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Icon Material UI"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="Icon React Router"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Icon PostgreSQL"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Icon AWS"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Icon Excel"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Icon Figma"></a>
 
 <b>Backend:</b>
 <br>
@@ -73,6 +79,10 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 <i href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Icon 'Postman'"></i>
 <a href="https://www.codewars.com/users/letStayFoolish" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Icon 'Codewars'"></a>
 <a href="https://scrimba.com/dashboard#enrolled" target="_blank"><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" alt="Icon 'Scrimba'"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Icon Vercel"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white" alt="Icon Binance"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Icon PostgreSQL"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="Icon Webstorm"></a>
 <br>
 
 <i>💡 - Click-on badge will take You to the repository, an example of written code, or you can take a look on all of my <a href="https://github.com/letStayFoolish?tab=repositories">repositories.</a></i>
