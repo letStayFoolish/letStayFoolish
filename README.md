@@ -39,19 +39,10 @@ I travel as much as possible, intend to visit, to me unknown places around the w
 
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Icon JavaScript ES6"></a>
-<a href="#" target="_blank"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="Icon TypeScript"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Icon TypeScript"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Icon Java"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Icon HTML5"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Icon CSS3"></a>
-
-
-<a href="https://github.com/letStayFoolish/flixx-app" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Icon 'NEXT.js'"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Icon Redux"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Icon TypeScript"></a>
-<a href="https://github.com/letStayFoolish/russian-travel" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Icon 'СSS3'"></a>
-<a href="https://github.com/letStayFoolish/how-to-learn" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Icon 'HTML5'"></a>
-<a href="https://github.com/letStayFoolish/corse-website" target="_blank"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Icon 'SASS'"></a>
-<a href="https://github.com/letStayFoolish/vera-website" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Icon Bootstrap"></a>
 
 <b>Frontend:</b>
 <br>
